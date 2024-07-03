@@ -6,10 +6,8 @@ This repository contains a simple shell program implemented in C.This allows use
  git clone https://github.com/Bhavani102/CommandShell.git
  cd CommandShell
 
-
 2.**Compile the Program**:
   gcc -o my_shell main.c shell.c
-
   
 3.**Run the executable**:
   ./my_shell
