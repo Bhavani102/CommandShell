@@ -1,7 +1,7 @@
 # Shell Program
 This repository contains a simple shell program implemented in C.This allows user to execute commands just like how a terminal works.
 ## Compilation and Execution
-1. **Clone the Repository**:
+1.**Clone the Repository**:
  '''bash
  git clone https://github.com/Bhavani102/CommandShell.git
  cd CommandShell
